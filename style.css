@@ -123,7 +123,8 @@ html, body{
     background-color: #808080 !important;
     z-index: 1 !important;
     padding-left: 90px;
-    opacity: 0 !important;
+    opacity: 100% !important;
+    width: 100% !important;
 }
 .dropdownmenu{
     color: var(--mains-color);
