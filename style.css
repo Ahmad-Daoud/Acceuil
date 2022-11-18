@@ -111,7 +111,7 @@ html, body{
 @media only screen and (max-width:790px){
     .menuicon{
         text-align: left;
-        padding-left: 100px !important;
+        padding-left: 10% !important;
         font-size: 2em !important;
     }
     .centerimg{
@@ -123,6 +123,7 @@ html, body{
     background-color: #808080 !important;
     z-index: 1 !important;
     padding-left: 90px;
+    opacity: 0 !important;
 }
 .dropdownmenu{
     color: var(--mains-color);
