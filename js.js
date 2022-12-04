@@ -1,3 +1,3 @@
 function droppedmenu(){
-    $(hiddenMenu).toggleClass('visiblemenu')
+    $('.hiddenMenu').toggleClass('.visiblemenu')
 }
